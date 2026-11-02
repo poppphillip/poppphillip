@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello,
+
+My name is Phillip Popp, I am currently a physics Ph.D. student at the University of California, Santa Cruz. I am excited about all aspects of spin systems, with my graduate research centering on the thermodynamics of geometrically frustrated magnets.
+
+Some emerging areas of interest for me are quantum information science and quantum computing, and thermodynamic computing. I am especially interested in the intersections of frustrated magnetism with quantum information and quantum error correction.
 
 <!--
 **poppphillip/poppphillip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
